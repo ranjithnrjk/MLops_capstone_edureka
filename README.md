@@ -49,3 +49,9 @@ Threee models have been used to experiment on the data to examine the linear and
 </ol>
 
 The experiment logs are pushed to `dagshub` and can be accessed here [Experiments_DagsHub](https://dagshub.com/ranjithkumarneeruganti/MLops_capstone_edureka)
+<br>
+
+
+Here is the simple UI created for the app:<br>
+
+![UI](ui.png)
