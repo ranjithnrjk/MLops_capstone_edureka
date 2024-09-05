@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Salary Prediction</title>
+</head>
+<body>
+    <h1>Predict Salary based on Years of Experience</h1>
+    <form action="/predict" method="POST">
+        <label for="YearsOfExperience">Years of Experience:</label>
+        <input type="text" id="YearsOfExperience" name="YearsOfExperience" required>
+        <button type="submit">Predict</button>
+    </form>
+    <h2>{{ prediction_text }}</h2>
+</body>
+</html>
