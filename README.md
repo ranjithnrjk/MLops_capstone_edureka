@@ -2,7 +2,7 @@
 
 # Salary Prediction Flask App
 
-This simple Flask application predicts salary based on years of experience using a pre-trained linear regression model. The app provides a form for users to input their years of experience and receive an estimated salary.
+Using a pre-trained linear regression model, this simple Flask application predicts salary based on years of experience. The app provides a form for users to input their years of experience and receive an estimated salary.
 ## Demo
 
 ### Getting Started
@@ -11,8 +11,8 @@ To run this application locally, follow these steps:
 
 ### 1. [Clone the Repository](https://github.com/ranjithnrjk/MLops_capstone_edureka.git)
 ```bash
-git clone [https://github.com/yourusername/salary-prediction-app.git](https://github.com/ranjithnrjk/MLops_capstone_edureka.git)
-cd salary-prediction-app
+git clone https://github.com/ranjithnrjk/MLops_capstone_edureka.git
+cd MLops_capstone_edureka
 ```
 
 ### 2. Install Required Dependencies
@@ -30,7 +30,7 @@ python app.py
 ```
 
 ### 4. Access the Application
-Once the app is running, open a browser and go to:
+Once the app is running, open a browser and go to the link displayed in the terminal, usually, it is:
 ```
 http://127.0.0.1:5000/
 ```
@@ -41,7 +41,7 @@ http://127.0.0.1:5000/
 
 ## Developemt
 
-Threee models have been used to experiment on the data to examine the linear and non-linear relationships.
+Three models have been used to experiment on the data to examine the linear and non-linear relationships.
 <ol>
 <li>Linear Regression</li>
 <li>Decision Tree Regression</li>
